@@ -15,8 +15,7 @@ Assignment: Flight Management Database System
 """
 
 import sqlite3
-import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 
 class FlightManagementCLI:
     """
